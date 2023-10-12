@@ -1,4 +1,7 @@
-# AICI_WEB
+# AICI_BigProject
+![AICI_Web_Main](https://postfiles.pstatic.net/MjAyMzEwMTJfNjUg/MDAxNjk3MTE4MjYyMDcz.exIyNe-qbXsZ7uLveJrh6IbOGV9LwYBmD4pOtiuzmkEg.kdIrsUPPBbi6-NtPjHK2oDlxnQheFiM-_O7Z9pmAAfwg.PNG.dasol4596/%EC%BA%A1%EC%B2%98.PNG?type=w966)
+
+
 
 ## Version
 - python==3.10.11
