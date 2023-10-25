@@ -41,7 +41,7 @@ AICI시스템으로 사외 공사를 신고하고, 관리 및 자동 응대를 �
 
 ## 화면구성
 ### 메인페이지
-<img src="(https://user-images.githubusercontent.com/106011096/278023038-7480518f-b76c-4332-a4ed-89fef88b7c5a.jpg)" width="600px" height="300px"/></p>
+<img src="https://user-images.githubusercontent.com/106011096/278023038-7480518f-b76c-4332-a4ed-89fef88b7c5a.jpg" width="600px" height="300px"/></p>
                 |고객TM                          |사외공사                         
 |-------------------------------|-----------------------------|
 |![고객TM](https://user-images.githubusercontent.com/106011096/278021804-e3e57366-58c6-45a3-9255-d4170ffed935.png) |![사외공사](https://user-images.githubusercontent.com/106011096/278022380-2d783c72-b8e3-4a75-aa3e-b2f6ef877dc6.png) |   
