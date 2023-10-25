@@ -64,8 +64,6 @@ AICI시스템으로 사외 공사를 신고하고, 관리 및 자동 응대를 �
 
 <hr></hr>
 
-<hr></hr>
-
 ## ERD Diagram
 <img src="https://user-images.githubusercontent.com/106011096/278026500-39302bea-8003-4067-a87c-004aceb5e27d.jpg" width="600px" height="300px"/>
 
