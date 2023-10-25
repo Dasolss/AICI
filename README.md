@@ -1,5 +1,5 @@
 # AICI
-![AICI_Web_Main](https://postfiles.pstatic.net/MjAyMzEwMTJfNjUg/MDAxNjk3MTE4MjYyMDcz.exIyNe-qbXsZ7uLveJrh6IbOGV9LwYBmD4pOtiuzmkEg.kdIrsUPPBbi6-NtPjHK2oDlxnQheFiM-_O7Z9pmAAfwg.PNG.dasol4596/%EC%BA%A1%EC%B2%98.PNG?type=w966)
+![AICI_Web_Main](https://user-images.githubusercontent.com/106011096/278024338-6023f0e1-42f4-4ead-b7bf-4a664c2497a2.jpg)
 
 ## 프로젝트 내용
 >**고객 TM 및 사외공사 신고 관리 자동화 프로세스**   
@@ -41,10 +41,10 @@ AICI시스템으로 사외 공사를 신고하고, 관리 및 자동 응대를 �
 
 ## 화면구성
 ### 메인페이지
-<img src="[https://github.com/jisoo29/jisoo29/assets/120074030/e787bde3-efbf-45a5-beaa-2667358519da.png](https://user-images.githubusercontent.com/106011096/278023038-7480518f-b76c-4332-a4ed-89fef88b7c5a.jpg)" width="600px" height="300px"/></p>
+<img src="(https://user-images.githubusercontent.com/106011096/278023038-7480518f-b76c-4332-a4ed-89fef88b7c5a.jpg)" width="600px" height="300px"/></p>
                 |고객TM                          |사외공사                         
 |-------------------------------|-----------------------------|
-|![고객TM]([https://github.com/jisoo29/jisoo29/assets/120074030/44e18e5c-2222-4cc4-a1ab-76570aa180cd](https://user-images.githubusercontent.com/106011096/278021804-e3e57366-58c6-45a3-9255-d4170ffed935.png)) |![사외공사]([https://github.com/jisoo29/jisoo29/assets/120074030/785f7f71-ce53-4ebd-88e2-a9bf1b7cf161](https://user-images.githubusercontent.com/106011096/278022380-2d783c72-b8e3-4a75-aa3e-b2f6ef877dc6.png)) |   
+|![고객TM](https://user-images.githubusercontent.com/106011096/278021804-e3e57366-58c6-45a3-9255-d4170ffed935.png) |![사외공사](https://user-images.githubusercontent.com/106011096/278022380-2d783c72-b8e3-4a75-aa3e-b2f6ef877dc6.png) |   
 
 <hr></hr>
 
