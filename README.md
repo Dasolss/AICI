@@ -8,7 +8,7 @@
 ## 베포주소
 >**http://52.63.184.150/**
 
-## 시연 영상
+## 시연 동영상
 >**https://www.youtube.com/watch?v=EhWZ6NXLQ5E/**
 
 <hr></hr>
