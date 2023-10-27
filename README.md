@@ -8,6 +8,9 @@
 ## 베포주소
 >**http://52.63.184.150/**
 
+## 시연 영상
+>**https://www.youtube.com/watch?v=EhWZ6NXLQ5E/**
+
 <hr></hr>
 
 ## 프로젝트 소개
